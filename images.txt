@@ -1,1 +1,1 @@
-halohub/halo：2.16
+halohub/halo:2.16
