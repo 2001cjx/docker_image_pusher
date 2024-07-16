@@ -1,1 +1,1 @@
-ghcr.io/wy580477/musicn-container:latest
+wbsu2003/lx-music-sync-server
