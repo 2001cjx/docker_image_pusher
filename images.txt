@@ -1,1 +1,1 @@
-linuxserver/grocy:latest
+fogforest/yesplaymusic
