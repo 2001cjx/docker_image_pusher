@@ -1,1 +1,1 @@
-fogforest/yesplaymusic
+linuxserver/qbittorrent
