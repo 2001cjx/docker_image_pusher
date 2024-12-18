@@ -1,1 +1,1 @@
-npscloud/nps
+snowdreamtech/frpc
