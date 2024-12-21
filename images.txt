@@ -1,2 +1,2 @@
-snowdreamtech/frpc
+jeessy/ddns-go
 corentinth/it-tools
