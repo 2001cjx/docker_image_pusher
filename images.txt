@@ -1,1 +1,2 @@
-ghcr.io/tashfeenahmed/freellmapi:latest
+wantcat/trendradar:latest
+wantcat/trendradar-mcp:latest
